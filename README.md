@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @benwillrob
-- 👀 I’m interested in space, ksp, maths and obviously coding!
-- 🌱 I’m currently learning python, java and kos
-- 💞️ I’m looking to collaborate on KOS projects
-- 📫 How to reach me Ben@theroberts.xyz
+-intern developer
+-baseball fan
+
 
 <!---
 benwillrob/benwillrob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
